@@ -1,2 +1,3 @@
-# DidiNugroho.github.io
-Website Pencarian Penyakit Berdasarkan Gejala
+Common Illness Diagnosis
+
+Common Illness Diagnosis Website
